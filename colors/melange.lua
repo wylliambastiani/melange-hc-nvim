@@ -66,7 +66,7 @@ local highlight_groups = {
   Substitute = { bg = d.red, bold = bold },
   -- QuickFixLine = { },
   -- IncSearch = { },
-  Visual = { bg = b.red },
+  Visual = { bg = b.magenta },
   -- VisualNOS = { },
 
   Conceal = { fg = a.com },
